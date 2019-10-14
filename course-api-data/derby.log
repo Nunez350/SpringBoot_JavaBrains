@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 11 16:39:26 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-bc8c-2f3a-00000b044a40 
+on database directory memory:/Users/roynunez/Documents/CollaberaJump/JavaBrainsSpringTutorial/course-api-data/testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@28feb3fa 
+Loaded from jar:file:/Users/roynunez/Documents/CollaberaJump/JavaBrainsSpringTutorial/course-api-data/target/course-api-data-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.4+10-LTS
+user.dir=/Users/roynunez/Documents/CollaberaJump/JavaBrainsSpringTutorial/course-api-data
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

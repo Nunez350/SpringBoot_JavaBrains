@@ -1,0 +1,18 @@
+package io.javabrains.springbootstarter.course;
+
+import java.util.Optional;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface CourseRepository extends CrudRepository<Course, String> {
+
+	Optional<Course> findById(String id);
+
+
+	
+
+	
+	//getAllTopics()
+	//getTopic(String id)
+	//deleteTopic(String id)
+}
